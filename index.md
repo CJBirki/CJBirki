@@ -6,9 +6,9 @@ I'm new to the coding scene, currently studying [JAMStack with the Coders Guild]
 
 I studied French and Italian at university, and also have a good working knowledge (enough to order a beer at least!) of German. I'm hoping these skills will help me learn these new coding languages.
 
-![Caroline with her husband and daughter](https://photos.app.goo.gl/bdq5vqiMbaE75AEo9)
+![Caroline with her husband and daughter](CJBirki/CarolineFamily.jpg)
 
-<img src="https://www.dropbox.com/s/bm6cnrek94oswmo/90330179_10157233572855910_8204158421860089856_o.jpg"
+<img src="https://photos.app.goo.gl/bdq5vqiMbaE75AEo9"
      alt="Caroline with her husband and daughter"
      style="float: left; margin-left: 75px;" />
 
