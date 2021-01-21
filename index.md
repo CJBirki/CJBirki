@@ -23,4 +23,4 @@ alt="Caroline and her daughter both smiling and wearing Blackburn Rovers shirts"
 - Football (As a Blackburn Rovers fan my happy place is most certainly **NOT** Turf Moor) 
 - Languages - French, German, Italian and am currently learning some Makaton and BSL to help my daughter with her communication skills.
 - Baking
-- Girlguiding - I've been a Brownnie Leader for 7 years and am currently organising and leading meetings for our unit via Zoom.
+- Girlguiding - I've been a Brownie Leader for 7 years and am currently organising and leading meetings for our unit via Zoom.
