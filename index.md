@@ -7,7 +7,7 @@ filename: index.md
 
 
 
-## About me 
+### About me 
 <img align="right" width="150" height="150" img style="float: right; padding-left: 50px;"  alt="Caroline" src="https://i.imgur.com/lxej1Vim.jpg">
 
 
