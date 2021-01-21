@@ -6,7 +6,11 @@ I'm new to the coding scene, currently studying [JAMStack with the Coders Guild]
 
 I studied French and Italian at university, and also have a good working knowledge (enough to order a beer at least!) of German. I'm hoping these skills will help me learn these new coding languages.
 
-![photo of Caroline and her family](https://photos.google.com/share/AF1QipMEy-TBqs1TFl1Phc_S2qipnV0stzBsbgoUEaVKDbxWsD8prO91fpjGt-Bfra6bmA?key=QlZJRFZTNUZ5WHV0V2lOclNzSTREUlJYYTB6SWxB)
+![Caroline with her husband and daughter](https://photos.app.goo.gl/bdq5vqiMbaE75AEo9)
+
+<img src="https://www.dropbox.com/s/bm6cnrek94oswmo/90330179_10157233572855910_8204158421860089856_o.jpg"
+     alt="Caroline with her husband and daughter"
+     style="float: left; margin-left: 75px;" />
 
 I am a native Cumbrian, but brought my husband back to his homeland of West Yorkshire in September 2019. We have a 20 month old daughter, Charlotte. After nearly two years out of work to be her primary carer, I am looking for opportunities to return to adult world and not have to listen to Hey Duggee all day!
 
