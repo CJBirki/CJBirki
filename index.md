@@ -15,7 +15,8 @@ I love being a mum, but slightly worried that my daughter has learned to say 'st
 
 ### Interests
 
-- Football (As a Blackburn Rovers fan my happy place is most certainly **NOT** Turf Moor) <img align="right" width="200" height="200" alt="Caroline and her daughter both smiling and wearing Blackburn Rovers shirts" src="https://i.imgur.com/Dbs7PzUm.jpg">
+- Football (As a Blackburn Rovers fan my happy place is most certainly **NOT** Turf Moor) <img align="right" width="200" height="200" img style="float: right; padding-left: 50px;"
+alt="Caroline and her daughter both smiling and wearing Blackburn Rovers shirts" src="https://i.imgur.com/Dbs7PzUm.jpg">
 - Languages - French, German, Italian and am currently learning some Makaton and BSL to help my daughter with her communication skills.
 - Baking
 - Girlguiding - I've been a Brownnie Leader for 7 years and am currently organising and leading meetings for our unit via Zoom.
