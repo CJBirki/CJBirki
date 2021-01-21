@@ -14,7 +14,7 @@ I love being a mum, but slightly worried that my daughter has learned to say 'st
 
 
 ### Interests 
-<img align="right" width="200" height="200" img style="float: right; padding-left: 100px;"
+<img align="right" width="200" height="200" img style="float: right; padding-left: 100px; padding-bottom: 50px"
 alt="Caroline and her daughter both smiling and wearing Blackburn Rovers shirts" src="https://i.imgur.com/Dbs7PzUm.jpg">
 - Football (As a Blackburn Rovers fan my happy place is most certainly **NOT** Turf Moor) 
 - Languages - French, German, Italian and am currently learning some Makaton and BSL to help my daughter with her communication skills.
