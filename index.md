@@ -1,6 +1,6 @@
-##Caroline Birkinshaw ![Picture of Caroline](https://lh3.googleusercontent.com/WaOUwf8F85opJSbzgZcNY1OkGToAXcwcmEZTXqWHTCXQCC2bE5OJC2evpSWtDWl5i_98msNj0f3CyGFU9kL5i2aPlyhomhFCYO7G3jv8zLNHZVW02cei2S_8lOHY872SxnD_XX_rHyPaIyxxnPsHnvbRSru1SkUq9vky5-LiZXnTU7ILlvgdHtw4aQW_ed5pFe6btthJIX1Q9P9ZX18Upra1rVfDwhMWRpoNnoXMi9DWsRiCVAhlgof7C5I8gwUGaDKEjoeTAKVqbZFcxhnnd-3XNneI0ciDqU6gKrRIbO50VTHFZKS1R0Om3nm8bF9DwmZTjBJuxIxTcLTsVPlmuD_Y61gIFb04VZ36RsyT7210G0KpKSFEW534tO0wlw4RBRCuvpyXZDuSfiPEoKX3vdwiBECsH7B2b9SlpMT5OatafYufKO1QEBYDsvFHMZZstoTDu9uNV6fYRuRdX4p-ZL956PCPyBQl-S0-4d3WL8ZbIEwgWWCPVQFAR6FNzsAbd84QX2IIIafRY-xKsf6h7y_Wwl_aHaj0RuwdB-KSi6xrkU8k0gc_uMZDO2-RDN1Cyr3690UVlJmDZsx-PQqU8AkIV6qUiivxK9fRARuTFq7i-7cI-KSG_pZLmYhz3Z6tM4o-ObzYGbyILZnWMyIis4OcaXhCZk-VgA83dHFgNuOcDQYkkhXGTWJqqZcRHQ=w660-h880-no?authuser=0)
+## Caroline Birkinshaw 
 
-###About me
+### About me
 
 I'm new to the coding scene, currently studying [JAMStack with the Coders Guild](https://thecodersguild.org.uk/blog/learn-web-and-app-development-with-the-jamstack/). My only previous coding experience is self taught in my role as a website content editor, mainly working through the html using the CMS to clear dosgy formatting carried over by contributors who copied and pasted directly from Word rather than using a text editor!
 
