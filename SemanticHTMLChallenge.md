@@ -17,7 +17,7 @@ This is my first foray into CSS, so would appreciate any feedback: url(https://g
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/.style.css">
+    <link rel="stylesheet" href="./style.css">
 
 <html lang="en">
   <head><link rel="preconnect" href="https://fonts.gstatic.com">
