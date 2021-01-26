@@ -1,8 +1,3 @@
----
-title: Semantic HTML Challenge
-filename: SemanticHTMLChallenge.md
---- 
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
