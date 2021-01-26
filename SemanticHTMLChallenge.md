@@ -163,4 +163,4 @@ filename: SemanticHTMLChallenge.md
   </body>
 </html>
 
-<p>This is my first foray into CSS, so would appreciate any feedback on <a href=https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html>my repo for this challenge</a></p>
+<p>This is my first foray into CSS, so would appreciate any feedback on <a href="https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html">my repo for this challenge</a></p>
