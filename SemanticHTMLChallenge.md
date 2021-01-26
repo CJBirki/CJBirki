@@ -1,7 +1,6 @@
 ---
-title: JAMStack course progress
-theme: jekyll-theme-tactile
-filename: JAMStack-course.md
+title: Semantic HTML Challenge
+filename: JSemanticHTMLChallenge.md
 --- 
 
 <html lang="en">
