@@ -3,6 +3,7 @@ title: Semantic HTML Challenge
 filename: SemanticHTMLChallenge.md
 --- 
 
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Semantic HTML Challenge</title>
@@ -162,4 +163,4 @@ filename: SemanticHTMLChallenge.md
   </body>
 </html>
 
-\This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
+<p>This is my first foray into CSS, so would appreciate any feedback on <a href=https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html>my repo for this challenge</a></p>
