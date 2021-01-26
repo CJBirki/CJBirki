@@ -1,12 +1,7 @@
----
-title: Semantic HTML Challenge
-theme: jekyll-theme-tactile
-filename: SemanticHTMLChallenge.md
---- 
 
 <html lang="en">
   <head>
-    <title>Hello!</title>
+    <title>Semantic HTML Challenge</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
