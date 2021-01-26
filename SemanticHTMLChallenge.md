@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+title: Semantic HTML Challenge
+theme: jekyll-theme-tactile
+filename: SemanticHTMLChallenge.md
+--- 
+
 <html lang="en">
   <head>
     <title>Hello!</title>
@@ -7,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="./style.css"> 
+    <link rel="stylesheet" href="/style.css" type="text/css"> 
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet"></head>
