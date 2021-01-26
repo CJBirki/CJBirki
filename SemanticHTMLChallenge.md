@@ -159,4 +159,4 @@
   </body>
 </html>
 
-<p>This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)</p>
+This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
