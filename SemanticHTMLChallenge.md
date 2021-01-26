@@ -1,3 +1,8 @@
+---
+title: JAMStack course progress
+theme: jekyll-theme-tactile
+filename: JAMStack-course.md
+--- 
 
 <html lang="en">
   <head>
@@ -22,7 +27,7 @@
       border-color: #800080;
       border-width: 2px;
       border-style: solid;
-      margin: 30px, 30px, 30px, 30px;
+      margin: 10px, 10px, 10px, 10px;
       
       }
 
@@ -159,4 +164,4 @@
   </body>
 </html>
 
-This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
+\This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
