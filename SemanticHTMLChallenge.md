@@ -1,26 +1,15 @@
----
-title: JAMStack course progress
-theme: jekyll-theme-tactile
-filename: SemanticHTMLChallenge.md
---- 
-
-###Semantic HTML Challenge
-
-This is my first foray into CSS, so would appreciate any feedback: url(https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Html/CSS table challenge</title>
+    <title>Hello!</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="./style.css"> 
 
-<html lang="en">
-  <head><link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet"></head>
 
   <style>
@@ -169,3 +158,4 @@ This is my first foray into CSS, so would appreciate any feedback: url(https://g
   
   </body>
 </html>
+#This is my first foray into CSS, so would appreciate any feedback on [my repo for this challenge](https://github.com/CJBirki/semantic-html-challenge/blob/master/index.html)
