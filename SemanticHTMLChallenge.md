@@ -1,6 +1,6 @@
 ---
 title: Semantic HTML Challenge
-filename: JSemanticHTMLChallenge.md
+filename: SemanticHTMLChallenge.md
 --- 
 
 <html lang="en">
